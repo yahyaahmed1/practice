@@ -1,0 +1,7 @@
+.parent {
+    background-color: rgb(29, 255, 251);
+    color: black;
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+}
